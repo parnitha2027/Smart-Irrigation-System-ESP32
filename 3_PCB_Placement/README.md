@@ -23,11 +23,11 @@ connectors and buttons.
 
 ## Placement Iterations
 
-- placement_initial.png  
+- Placement_arrangement.png (placement_initial)
   Shows the initial arrangement of components after importing
   the schematic into the PCB editor.
 
-- placement_final.png  
+- placement_arrgement Final.png (placement_Final)
   Shows the optimized component placement used before routing,
   ensuring better signal flow and manufacturability.
 
